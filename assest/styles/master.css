@@ -1,0 +1,135 @@
+main .menu > li {
+  list-style-type: none;
+}
+main .menu > li > a {
+  text-decoration: none;
+  font-size: 11px;
+}
+main .btn > span {
+  border-radius: 10px;
+  font-size: 14px;
+  height: 90%;
+}
+main .btn1 > button {
+  height: 90%;
+}
+main > div > div > header > div > section:nth-of-type(1) {
+  background-color: white;
+  height: 60px;
+  position: relative;
+  overflow: hidden;
+}
+main > div > div > header > div > section:nth-of-type(1) > div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+main .head {
+  height: 200px;
+}
+main > div > div > header > div > section:nth-of-type(2) {
+  min-height: 100px;
+  height: auto;
+}
+main > div > div > header > div > section:nth-of-type(2) > article {
+  margin: 10px auto;
+  background-color: rgb(81, 81, 245);
+}
+main > div > div > header > div > section:nth-of-type(2) > div {
+  margin-top: 50px;
+  min-height: 100px;
+  height: auto;
+}
+main > div > div > header > div > section:nth-of-type(2) > div > div {
+  margin-top: 20px;
+  height: 60px;
+  width: 300px;
+}
+main > div > div > header > div > section:nth-of-type(2) > div > div > div:nth-of-type(1) > div:nth-of-type(1) {
+  width: 100%;
+  height: 30%;
+}
+main > div > div > header > div > section:nth-of-type(2) > div > div > div:nth-of-type(1) > div:nth-of-type(1) > h4 {
+  font-size: 12px;
+}
+main > div > div > header > div > section:nth-of-type(2) > div > div > div:nth-of-type(1) > div:nth-of-type(2) {
+  width: 100%;
+  height: 70%;
+}
+main > div > div > header > div > section:nth-of-type(2) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > input {
+  border: none;
+}
+main > div > div > header > div > section:nth-of-type(2) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > input::-moz-placeholder {
+  color: rgba(128, 128, 128, 0.555);
+  padding-right: 20px;
+  width: 100%;
+}
+main > div > div > header > div > section:nth-of-type(2) > div > div > div:nth-of-type(1) > div:nth-of-type(2) > input::placeholder {
+  color: rgba(128, 128, 128, 0.555);
+  padding-right: 20px;
+  width: 100%;
+}
+main > div > div > header > div > section:nth-of-type(2) > div > div > div:nth-of-type(1) > div:nth-of-type(2) i {
+  font-size: 25px;
+}
+main > div > div > header > div > section:nth-of-type(2) div > div:nth-of-type(2) > div > select {
+  border: none;
+  margin-right: 150px;
+}
+main > .anim .font1 {
+  font-size: 10px;
+  text-align: 15px;
+}
+main > .para2 .txt2 {
+  font-size: 12px;
+}
+main > .para2 .cir1 {
+  background-color: gray;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main > .para3 .dayere {
+  margin-top: 10px;
+}
+main > .para3 .dayere > div {
+  width: 80px;
+  height: 80px;
+  margin: 1px auto;
+  margin-top: -40px;
+  border-radius: 50%;
+  border: 2px solid rgba(128, 128, 128, 0.404);
+  background-color: white;
+}
+main > .para3 .txt2 {
+  font-size: 12px;
+}
+main > button {
+  display: flex;
+  justify-content: center;
+  margin: 50px auto;
+}
+main > .paraa .bgg {
+  height: 60px;
+  background-color: rgba(128, 128, 128, 0.164);
+  border-radius: 10px;
+}
+main > .paraa .bgg > div {
+  height: 100%;
+}
+main > .paraa .bgg > div > div {
+  height: 100%;
+}
+main > .paraa .cirr3 {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
+main > .paraa .finish .br11 {
+  border-radius: 10px;
+  background-color: rgba(128, 128, 128, 0.164);
+}
+main > .paraa .finish1 {
+  margin-top: 50px;
+}/*# sourceMappingURL=master.css.map */

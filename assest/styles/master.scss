@@ -1,0 +1,224 @@
+main {
+    .menu {
+
+        // background-color: aqua;
+        >li {
+            list-style-type: none;
+            // background-color: brown;
+
+            >a {
+                text-decoration: none;
+                // background-color: chartreuse;
+                font-size: 11px;
+
+            }
+        }
+    }
+
+    .btn {
+        >span {
+            border-radius: 10px;
+            font-size: 14px;
+            height: 90%;
+
+        }
+    }
+
+    .btn1 {
+        >button {
+            height: 90%;
+        }
+    }
+
+    >div>div>header>div {
+        >section:nth-of-type(1) {
+            background-color: white;
+            height: 60px;
+            position: relative;
+            overflow: hidden;
+
+            >div {
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+        }
+    }
+
+    .head {
+        // border: 2px solid red;
+        height: 200px;
+    }
+
+    >div>div>header>div {
+        >section:nth-of-type(2) {
+            min-height: 100px;
+            height: auto;
+
+            >article {
+                margin: 10px auto;
+                background-color: rgb(81, 81, 245);
+            }
+
+
+            >div {
+                margin-top: 50px;
+                min-height: 100px;
+                height: auto;
+
+
+
+
+                >div {
+                    margin-top: 20px;
+                    height: 60px;
+                    width: 300px;
+
+                    >div:nth-of-type(1) {
+                        >div:nth-of-type(1) {
+                            width: 100%;
+                            height: 30%;
+
+                            >h4 {
+                                font-size: 12px;
+                            }
+                        }
+
+                        >div:nth-of-type(2) {
+                            width: 100%;
+                            height: 70%;
+
+                            >input {
+                                border: none;
+
+                                &::placeholder {
+                                    color: rgba(128, 128, 128, 0.555);
+                                    padding-right: 20px;
+                                    width: 100%;
+
+                                }
+                            }
+
+                            i {
+                                font-size: 25px;
+                            }
+                        }
+                    }
+
+
+
+                }
+            }
+        }
+    }
+
+    >div>div>header>div {
+        >section:nth-of-type(2) {
+            div {
+                >div:nth-of-type(2) {
+                    >div {
+                        >select {
+                            // background-color: aqua;
+                            border: none;
+                            margin-right: 150px;
+                        }
+                    }
+                }
+            }
+
+        }
+    }
+
+    >.anim {
+        .font1 {
+            font-size: 10px;
+            text-align: 15px;
+        }
+    }
+
+    >.para2 {
+        .txt2 {
+            font-size: 12px;
+        }
+
+        .cir1 {
+            background-color: gray;
+            border-radius: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+    >.para3 {
+        .dayere {
+            margin-top: 10px;
+
+            >div {
+                width: 80px;
+                height: 80px;
+                // background-color: aqua;
+                margin: 1px auto;
+                margin-top: -40px;
+                border-radius: 50%;
+                border: 2px solid rgba(128, 128, 128, 0.404);
+                background-color: white;
+            }
+        }
+
+        .txt2 {
+            font-size: 12px;
+        }
+    }
+
+    >button {
+        display: flex;
+        justify-content: center;
+        margin: 50px auto;
+    }
+
+    >.paraa {
+        .bgg {
+            height: 60px;
+            background-color: rgba(128, 128, 128, 0.164);
+            border-radius: 10px;
+
+            >div {
+                height: 100%;
+
+                >div {
+                    height: 100%;
+
+                }
+            }
+        }
+
+        .cirr3 {
+            height: 20px;
+            width: 20px;
+            // background-color: aqua;
+            border-radius: 50%;
+
+
+        }
+
+        .finish {
+            .br11 {
+                border-radius: 10px;
+                background-color: rgba(128, 128, 128, 0.164);
+
+
+            }
+        }
+
+        .finish1 {
+            margin-top: 50px;
+        }
+
+
+    }
+
+
+
+
+}
